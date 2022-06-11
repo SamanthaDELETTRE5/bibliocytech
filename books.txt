@@ -1,0 +1,38 @@
+001|L Etranger|Albert Camus|Littérature
+002|Shining|Stephen King|Littérature
+003|Petit pays|Gaël Faye|Histoire
+004|Le gène égoiste|Richard Daskins|Sciences
+005|La fabrique des pandémies|Marie Robin|Sciences
+006|Voyage au bout de la nuit|Louis-Ferdinand Céline|Littérature
+007|Cent ans de solitude|Gabriel Garcia Marquez|Littérature
+008|1984|George Orwell|Politique
+009|Les misérables|Victor Hugo|Littérature
+010|L écume des jours|Boris Vian|Littérature
+011|Le rouge et le noir|Stendhal|Littérature|
+012|Le charme discret de l intestin|Giulia Enders|Sciences
+013|La santé devant soi|Frédéric Saldmann|Sciences|Lala|1654454653
+014|Dieu la science les preuves l aube d une révolution|Olivier Bonassies|Sciences
+015|Animation maths|Ivo De Pauw|Sciences
+016|Vertige du cosmos|Xuan Thuan Trinh|Sciences
+017|Femme desiree femme desirante|Danièle Flaumenbaum|Sciences
+019|Une brève histoire de l égalité|Thomas Piketty|Economie
+020|Le capital au XXIe siècle|Thomas Piketty|Economie
+021|La ville nous appartient|Fenton Justin|Economie
+022|Femmes puissantes|Léa Salamé|Economie
+023|The Offer You Can t Refuse|Steven Van Belleghem|Anglais
+024|Start to draw|Axelle Vanquaillie|Anglais
+025|The guide to the Ecosystem Economy|Rik Vera|Anglais
+026|Le mythe du déficit|Stéphanie Kelton|Economie
+027|Manifeste pour l écologie humaine|Jean Hugues Barthélemy|Economie
+028|Le Monde d hier|Stefan Zweig|Histoire
+029|Sapiens|Yuval Noah Harari|Histoire
+030|Histoire de France|Jacques Bainville|Histoire
+031|Si c est un homme|Primo Levi|Histoire
+032|Le mystère français|Emmanuel Todd|Politique
+033|Portraits souvenirs|Alain Duhamel|Politique
+034|Ce que l on ne veut pas que je vous dise|Frédérique Dumas|Politique
+035|Rester barbare|Louisa Yousfi|Politique
+036|Foutriquet|Michel Onfray|Politique
+037|Anatomie d une trahison|Renaud Dély|Politique
+038|Claude Erignac et Yvan Colonna|Jean Pierre Larminier|Politique
+039|La Mafia d État|Vincent Jauvert|Politique
